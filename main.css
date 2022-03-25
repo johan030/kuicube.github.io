@@ -47,10 +47,12 @@ header{
     text-decoration: none;
     color: #fff;
     letter-spacing: 0.2rem;
+    font-size: 1.6rem;
+    
 }
 .btn-title{
     padding: 1rem 2rem 1rem 2rem;
-    font-size: 1.2rem;
+    
     border-radius: 2rem;
     text-transform: uppercase;
     background-color: black;
@@ -87,8 +89,10 @@ header{
 }
 .description{
     width: 70%;
-    font-size: 1.1rem;
+    font-size: 2rem;
     margin: 0 auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
     
 }
 .price{
@@ -101,7 +105,7 @@ header{
 footer{
     text-align: center;
     margin-top: 10rem;
-    height: 17vh;
+    height: 20vh;
     background-color: #5d4332;
 }
 
