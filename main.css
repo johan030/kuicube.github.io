@@ -19,7 +19,7 @@ body{
 
 
 header{
-    background-image:url(/img/background.jpg);
+    background-image:url(img/background.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -47,7 +47,7 @@ header{
 /* PRODUCT SECTION */
 
 .products{
-    border: 1px solid black;
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -56,8 +56,6 @@ header{
 }
 
 .product{
-    border: 1px solid black;
-    
     text-align: center;
 }
 
@@ -75,7 +73,7 @@ header{
 .description{
     width: 70%;
     margin: 0 auto;
-    border: 1px solid black;
+    
 }
 .price{
     font-size: 2rem;
