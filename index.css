@@ -23,7 +23,7 @@ body {
 /* HEADER */
 
 .header{
-    background-image:url(/img/background.jpg);
+    background-image:url(/img/background.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -38,8 +38,8 @@ body {
     letter-spacing: 1rem;
 }
 .header__text-box{
-display: inline-block;
-text-align: center;
+  display: inline-block;
+  text-align: center;
 }
 
 .heading-primary--main{
